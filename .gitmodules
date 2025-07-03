@@ -1,0 +1,3 @@
+[submodule "openrepo"]
+	path = openrepo
+	url = https://github.com/openkilt/openrepo.git
